@@ -9,7 +9,7 @@ environment:
 
 dependencies:
   # Multi-platform network ping utility.
-  dart_ping: ^7.0.1
+  dart_ping: ^8.0.1
   # Deal with internationalized/localized messages and more.
   intl: ^0.17.0
   # Debugging and error logging.
